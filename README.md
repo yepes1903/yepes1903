@@ -79,15 +79,7 @@ Mi enfoque es: **primero entender, después diseñar y por último programar bie
 
 ---
 
-## 📊 **GitHub Stats**
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
-
-*(Reemplaza "TU_USUARIO" por tu nombre de usuario de GitHub)*
-
----
 
 ## 📫 **Conectemos**
 
