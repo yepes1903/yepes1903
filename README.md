@@ -12,7 +12,7 @@
 
 Mi enfoque es: **primero entender, después diseñar y por último programar bien**. Me dedico a desarrollar aplicaciones sólidas, escalables y bien estructuradas, tanto en frontend como backend.
 
-![Code Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4hBsC19IwrHEQe-Z6xmcXQUS1q1G4pSMIpw&s)
+![Code Banner](https://marketplace.canva.com/EAEmbLmpRTY/1/0/800w/canva-banner-de-linkedin-lugar-de-trabajo-ordenado-w6agp-WQERg.jpg)
 
 ---
 
