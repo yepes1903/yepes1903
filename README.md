@@ -12,7 +12,7 @@
 
 Mi enfoque es: **primero entender, después diseñar y por último programar bien**. Me dedico a desarrollar aplicaciones sólidas, escalables y bien estructuradas, tanto en frontend como backend.
 
-![Code Banner](https://www.canva.com/design/DAG9wK9Un0I/noj9ATfs_xZauwyzkTnGLA/edit?utm_content=DAG9wK9Un0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Code Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4hBsC19IwrHEQe-Z6xmcXQUS1q1G4pSMIpw&s)
 
 ---
 
