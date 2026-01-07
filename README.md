@@ -5,7 +5,7 @@
 **Estudiante de Análisis y Desarrollo de Software | Desarrollador .NET | Enfocado en soluciones reales con código limpio**
 
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00A4EF&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnología;Desarrollador+.NET+%26+Fullstack;Creador+de+soluciones+reales;Amante+del+código+limpio)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnología;Desarrollador+.NET+%26+Fullstack;Creador+de+soluciones+reales;Amante+del+código+limpio)
 
 
 ## 🚀 Sobre Mí
@@ -14,8 +14,7 @@ Soy un apasionado por construir soluciones reales usando buen análisis, código
 
 Mi enfoque es: **primero entender, después diseñar y por último programar bien**. Me dedico a desarrollar aplicaciones sólidas, escalables y bien estructuradas, tanto en frontend como backend.
 
-
----
+![Personal Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=999999999&color=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=👨‍💻+Desarollo+De+Software;💼+Desarrollador+.NET+Fullstack;🎯+Soluciones+reales+con+código+limpio;🚀+Aprendiendo+creciendo+innovando)---
 
 ## 🎓 Formación y Enfoque
 
@@ -102,4 +101,4 @@ Mi enfoque es: **primero entender, después diseñar y por último programar bie
 
 ---
 
-![Frase del Día](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Primero+entender,+después+diseñar,+por+último+programar+bien;El+código+limpio+es+un+acto+de+respeto+hacia+tus+futuros+compañeros;Aprender+haciendo+es+mi+lema+de+vida;Cada+línea+de+código+es+un+paso+hacia+la+maestría;La+arquitectura+correcta+ahorra+miles+de+horas+de+debugging)
+![Frase del Día](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Primero+entender,+después+diseñar,+por+último+programar+bien;El+código+limpio+es+un+acto+de+respeto+hacia+tus+futuros+compañeros;Aprender+haciendo+es+mi+lema+de+vida;Cada+línea+de+código+es+un+paso+hacia+la+maestría;La+arquitectura+correcta+ahorra+miles+de+horas+de+debugging)
