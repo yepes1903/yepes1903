@@ -14,7 +14,7 @@ Soy un apasionado por construir soluciones reales usando buen análisis, código
 
 Mi enfoque es: **primero entender, después diseñar y por último programar bien**. Me dedico a desarrollar aplicaciones sólidas, escalables y bien estructuradas, tanto en frontend como backend.
 
-![Personal Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=999999999&color=8A8A8A&center=true&vCenter=true&width=800&height=150&lines=👨‍💻+Desarollo+De+Software;💼+Desarrollador+.NET+Fullstack;🎯+Soluciones+reales+con+código+limpio;🚀+Aprendiendo+creciendo+innovando)---
+![Personal Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=999999999&color=8A8A8A&center=true&vCenter=true&width=900&height=150&lines=👨‍💻+Desarollo+De+Software+y+Aplicaciones+FullStack;💼+Desarrollador+.NET+Fullstack;🎯+Soluciones+reales+con+código+limpio;🚀+Aprendiendo+creciendo+innovando)---
 
 ## 🎓 Formación y Enfoque
 
