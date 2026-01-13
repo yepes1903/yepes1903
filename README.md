@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola, soy Mateo! 
+# ¡Hola, soy Mateo! 
 
 ### *"Aprender haciendo" es mi lema*
 
